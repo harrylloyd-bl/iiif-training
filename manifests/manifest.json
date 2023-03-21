@@ -5,7 +5,7 @@
   "label" : "Training Manifest with a few cool bits",
   "metadata" : [ ],
   "description" : [ {
-    "@value" : "This is a trial asdf collection of images gathered from BL archives, uploaded onto the Internet Archive and Workbench as a test, then converted to a manifest using the Bodleian manifest creator.",
+    "@value" : "This is a trial collection of images gathered from BL archives, uploaded onto the Internet Archive and Workbench as a test, then converted to a manifest using the Bodleian manifest creator.",
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by-nc-sa/4.0/",

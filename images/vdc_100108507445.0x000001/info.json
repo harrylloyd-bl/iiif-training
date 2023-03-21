@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 16,
+    "height" : 21
+  }, {
+    "width" : 32,
+    "height" : 42
+  }, {
+    "width" : 64,
+    "height" : 84
+  }, {
+    "width" : 128,
+    "height" : 167
+  }, {
+    "width" : 256,
+    "height" : 333
+  }, {
+    "width" : 512,
+    "height" : 666
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 512,
+  "@id" : "https://harrylloyd-bl.github.io/iiif-training/images/vdc_100108507445.0x000001",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 666
+}

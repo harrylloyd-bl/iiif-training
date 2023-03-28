@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://harrylloyd-bl.github.io/iiif-training/annotations/butterfly_annotations.json" ],
+  "@id" : "https://harrylloyd-bl.github.io/iiif-training/annotations/collection.json",
+  "label" : "All annotations loaded in harrylloyd-bl/iiif-training project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}

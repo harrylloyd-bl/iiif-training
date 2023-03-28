@@ -1,0 +1,80 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "This diagram looks ~cool~ I have no idea what it is. Something about geometry? 45o angles from the corner and centre of the top aligning to form an equilateral triangle with the p looking marking on the left.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>This diagram looks ~cool~ I have no idea what it is. Something about geometry? 45o angles from the corner and centre of the top aligning to form an equilateral triangle with the p looking marking on the left.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Diagram",
+      "@type" : "oa:Tag",
+      "chars" : "Diagram"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/125367849",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-03-28T10:48:19",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1680000499761",
+    "dcterms:modified" : "2023-03-28T10:50:12",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://harrylloyd-bl.github.io/iiif-training/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3986,3405,2432,1324"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3985.56667,3405.32549h1216.2v0h1216.2v662.21176v662.21176h-1216.2h-1216.2v-662.21176z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_9427a03f-e20e-4a82-aa3f-c04dc01f929e\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"2.39393\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1e0381cb-52ce-44bb-a382-e84c02dce67f"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Illuminated",
+      "@type" : "oa:Tag",
+      "chars" : "Illuminated"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Not sure what these extra bits are. Starts of sentences? Formulae?",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Not sure what these extra bits are. Starts of sentences? Formulae?</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/125367849",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-03-28T10:59:19",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1680001159180",
+    "dcterms:modified" : "2023-03-28T10:59:19",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://harrylloyd-bl.github.io/iiif-training/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1763,2666,2053,187"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2837.31576,2765.4622v-92.68364l977.10545,-6.28364l1.57091,84.82909l-2048.46545,12.56727l-4.71273,89.54182l334.60364,-9.42545l1.57091,-92.68364z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_a0b256db-a548-49d7-aeee-3e5a085f0ef3\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1e0381cb-52ce-44bb-a382-e84c02dce67f"
+    } ]
+  } ],
+  "@id" : "https://harrylloyd-bl.github.io/iiif-training/annotations/maths_book_annotations.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
